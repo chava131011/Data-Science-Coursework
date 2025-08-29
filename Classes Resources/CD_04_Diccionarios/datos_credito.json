@@ -1,0 +1,34 @@
+{
+    "clientes": [
+        {
+            "nombre": "Enrique",
+            "apellido": "Lopez",
+            "edad": 27,
+            "deuda": 717
+        },
+        {
+            "nombre": "Maria",
+            "apellido": "Ramirez",
+            "edad": 30,
+            "deuda": 860
+        },
+        {
+            "nombre": "Roger",
+            "apellido": "May",
+            "edad": 32,
+            "deuda": 1045
+        },
+        {
+            "nombre": "Alonzo",
+            "apellido": "Contreras",
+            "edad": 40,
+            "deuda": 678
+        },
+        {
+            "nombre": "Gabriela",
+            "apellido": "Martinez",
+            "edad": 38,
+            "deuda": 561
+        }
+    ]
+}
